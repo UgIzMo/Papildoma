@@ -103,7 +103,7 @@ void rasymas (map<string, vector<int>>& sarasas,vector<string> urls) {
         return;
     }
 
-    out << "URLS turime: " << urls.size() << " " << endl;
+    out << "URLS skaicius: " << urls.size() << " " << endl;
     for (const auto& url : urls)
         out << url << endl;
 
