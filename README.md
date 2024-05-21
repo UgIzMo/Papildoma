@@ -1,4 +1,5 @@
 # Papildoma
+
 Papildoma užduotis egzamino praktinei daliai.
 
 Turime programą, kuri nuskaito vartotojo failą ir suskaičiuoja pasikartojančius žodžius bei atranda tekste esančius internetinių svetainių adresus. 
@@ -24,5 +25,15 @@ Rezultatai atpausdinami į atskirą failą lentelės pavidalu.
 - `funkcijos.h`: Funkcijų antraštės.
 - `mylib.h`: Naudojamų bibliotekų antraštės.
 - `Makefile`: Kompiliavimo taisyklės.
+- .txt failai
+
+# Regex  naudojimas
+
+Programa naudoja regex šabloną, kuris atpažįsta URL adresus bet kokio formato tekste. 
+Šis šablonas yra patikimas ir leidžia efektyviai surasti URL adresus, nepriklausomai nuo jų struktūros ar formatavimo. 
+Regex naudojimas gali būti galingas, tačiau kartais gali būti sudėtingas ir reikalaujantis išsamesnio supratimo.
+
+Regex naudojimas yra sėkmingas būdas atpažinti ir išskirti URL adresus iš teksto, leidžiantis efektyviai rasti ir surinkti internetinių svetainių adresus iš bet kokio formato teksto.
+
 
 
